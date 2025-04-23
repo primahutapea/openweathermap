@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5 day weather forecast of Jakarta Selatan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8192d6ae-4f9e-483b-8340-0108595a1c15</testCaseGuid>
+</TestCaseEntity>
